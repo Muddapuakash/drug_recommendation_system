@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drug Recommendation System</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="static\css\styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <a class="navbar-brand" href="#">
+            <div class="logo">
+                <img class="myimage" src="{{ url_for('static', filename='templates\medical_image.png') }}" alt="">
+            Drug Recommendation System
+        </div>
+        </a>
+    </nav>
+
+    <div class="background-slider">
+        <div class="slide active" style="background-image: url('https://img.freepik.com/free-photo/pills-dark-environment_23-2151438423.jpg');"></div>
+        <div class="slide" style="background-image: url('https://www.keysight.com/blogs/en/tech/software-testing/2024/03/11/media_11eabcbe6e6a87498a8e948656f1a94e1f4673a1b.png?width=750&format=png&optimize=medium');"></div>
+        <div class="slide" style="background-image: url('https://t3.ftcdn.net/jpg/06/80/44/32/360_F_680443269_fC3vIs3qd4UiARFn1hzxodCTMEAT5tB6.jpg');"></div>
+        
+    </div>
+
+    <div class="form-overlay">
+        <div class="card shadow">
+            <div class="card-body">
+                <h1 class="card-title">Get Drug Recommendations</h1>
+                <form action="/predict" method="POST">
+                    <div class="form-group">
+                        <label for="symptoms">Enter Symptoms (comma separated):</label>
+                        <input type="text" id="symptoms" name="symptoms" class="form-control" placeholder="e.g., headache, nausea" required>
+                    </div>
+                    <button type="submit" class="btn btn-success btn-block">Predict</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2024 Drug Recommendation System | All rights reserved</p>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script>
+        let currentSlide = 0;
+        const slides = document.querySelectorAll('.slide');
+        const totalSlides = slides.length;
+
+        function showSlide(index) {
+            slides.forEach((slide, i) => {
+                slide.classList.remove('active');
+                if (i === index) {
+                    slide.classList.add('active');
+                }
+            });
+        }
+
+        function nextSlide() {
+            currentSlide = (currentSlide + 1) % totalSlides;
+            showSlide(currentSlide);
+        }
+
+        setInterval(nextSlide, 5000); // Change slide every 5 seconds
+    </script>
+</body>
+</html>

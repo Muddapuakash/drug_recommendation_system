@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            overflow: hidden;
+            position: relative;
+            background: url('https://img.freepik.com/free-photo/pills-dark-environment_23-2151438450.jpg?size=626&ext=jpg') no-repeat center center/cover; /* Change to your image URL */
+        }
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(44, 62, 80, 0.7); /* Dark overlay for contrast */
+        }
+        .container {
+            position: relative;
+            max-width: 800px;
+            margin: 20px;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+            box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(15px); /* Blur effect */
+            transition: transform 0.2s ease; /* Smooth transition for tilt effect */
+        }
+        .container:hover {
+            transform: perspective(600px) rotateY(10deg) rotateX(5deg); /* Tilt effect on hover */
+        }
+        h1 {
+            color: #4CAF50;
+            text-align: center;
+            text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.7);
+        }
+        .info {
+            margin-bottom: 15px;
+            padding: 10px;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 5px;
+        }
+        strong {
+            color: black;
+        }
+        .feedback-form {
+            margin-top: 20px;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 5px;
+        }
+        .feedback-form textarea, .feedback-form input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            border: none;
+            border-radius: 5px;
+            background: rgba(255, 255, 255, 0.3);
+            color: #333;
+        }
+        .feedback-form button {
+            background: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        .feedback-form button:hover {
+            background: #45a049;
+        }
+        @media (max-width: 600px) {
+            .container {
+                padding: 15px;
+            }
+            h1 {
+                font-size: 24px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="overlay"></div>
+    <div class="container">
+        <h1>Prediction Results</h1>
+        <div class="info">
+            <strong>Predicted Disease:</strong> {{ disease }}
+        </div>
+        <div class="info">
+            <strong>Recommended Drug:</strong> {{ drug_info['Recommended Drugs and Dosage'] }}
+        </div>
+        <div class="info">
+            <strong>Duration:</strong> {{ drug_info['Duration'] }}
+        </div>
+        <div class="info">
+            <strong>Food Intake:</strong> {{ drug_info['Food Intake'] }}
+        </div>
+        <div class="info">
+            <strong>Precautions:</strong> {{ drug_info['Precautions'] }}
+        </div>
+        <div class="info">
+            <strong>Suggested Action:</strong> {{ action }}
+        </div>
+
+        <!-- Feedback Form -->
+        <div class="feedback-form">
+            <h2>We Value Your Feedback</h2>
+            <form action="/submit_feedback" method="POST"> <!-- Update action URL as needed -->
+                <input type="text" name="name" placeholder="Your Name" required>
+                <textarea name="feedback" rows="4" placeholder="Your Feedback" required></textarea>
+                <button type="submit">Submit Feedback</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
