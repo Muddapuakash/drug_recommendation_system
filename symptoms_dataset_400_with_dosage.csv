@@ -1,0 +1,370 @@
+ID,Symptoms,Disease,Recommended Drugs and Dosage,Duration,Food Intake,Precautions
+1," Fever, cough, fatigue ", Common cold , Acetaminophen 500mg every 6 hours , 7-10 days ," Increase fluids, chicken soup "," Rest, avoid strenuous activities "
+2," Joint pain, stiffness, swelling ", Rheumatoid arthritis , Methotrexate 15mg weekly , Chronic , Anti-inflammatory diet ," Regular exercise, joint protection "
+3," Shortness of breath, chest pain ", Pulmonary embolism , Heparin 5000 IU subcutaneously every 8 hours , 5-10 days , Low-fat diet , Avoid prolonged immobility 
+4," Excessive thirst, frequent urination ", Type 2 diabetes , Metformin 500mg twice daily , Chronic , Low glycemic index foods , Regular blood sugar monitoring 
+5," Skin rash, joint pain, fever ", Lupus , Hydroxychloroquine 200mg twice daily , Chronic ," Balanced diet, omega-3 rich foods "," Sun protection, stress management "
+6," Memory loss, confusion, personality changes ", Alzheimer's disease , Donepezil 5mg daily , Chronic , Mediterranean diet ," Cognitive stimulation, safety-proof home "
+7," Tremors, stiffness, balance problems ", Parkinson's disease , Levodopa/Carbidopa 25/100mg three times daily , Chronic , High-fiber diet ," Physical therapy, fall prevention "
+8," Abdominal pain, diarrhea, weight loss ", Crohn's disease , Mesalamine 4g daily , Chronic , Low-fiber diet during flares ," Quit smoking, stress reduction "
+9," Vision problems, eye pain ", Glaucoma , Timolol 0.5% eye drops twice daily , Chronic ," Leafy greens, fish ", Regular eye check-ups 
+10," Fatigue, pale skin, shortness of breath ", Iron-deficiency anemia , Ferrous sulfate 325mg three times daily , 3-6 months , Iron-rich foods , Avoid tea/coffee with meals 
+11," Muscle weakness, difficulty swallowing ", Myasthenia gravis , Pyridostigmine 60mg every 4 hours , Chronic ," Soft, easy-to-swallow foods ", Avoid overexertion 
+12," Skin lesions, nerve damage ", Leprosy , Dapsone 100mg daily + Rifampicin 600mg monthly , 6-12 months , Balanced diet , Regular skin checks 
+13," High fever, severe headache, muscle pain ", Dengue fever , Acetaminophen 500mg every 6 hours , 2-7 days , Increase fluids ," Bed rest, mosquito prevention "
+14," Excessive sweating, rapid heartbeat ", Hyperthyroidism , Methimazole 10mg three times daily , 12-18 months , Iodine-rich foods ," Avoid caffeine, stress management "
+15," Blood in urine, lower back pain ", Kidney stones , Tamsulosin 0.4mg daily , 4-6 weeks , Increase water intake , Limit sodium and animal protein 
+16," Jaundice, abdominal pain, fever ", Hepatitis B , Entecavir 0.5mg daily , 48 weeks ," Avoid alcohol, high-protein diet "," Rest, avoid sharing personal items "
+17," Irregular heartbeat, shortness of breath ", Atrial fibrillation , Warfarin 5mg daily , Chronic , Vitamin K-consistent diet , Regular INR monitoring 
+18," Red, scaly patches on skin ", Psoriasis , Adalimumab 40mg every other week , Chronic , Anti-inflammatory diet ," Moisturize skin, stress reduction "
+19," Facial pain, nasal congestion ", Sinusitis , Amoxicillin 500mg three times daily , 10-14 days ," Spicy foods, stay hydrated "," Steam inhalation, nasal irrigation "
+20," Bone pain, fractures ", Osteoporosis , Alendronate 70mg weekly , Chronic , Calcium and vitamin D rich foods , Weight-bearing exercises 
+21," Weight gain, moon face, striae ", Cushing's syndrome , Ketoconazole 200mg twice daily , 3-6 months , Low-sodium diet , Gradual tapering of steroids 
+22," Difficulty speaking, facial weakness ", Bell's palsy , Prednisone 60mg daily for 5 days , 2-3 weeks , Soft foods ," Eye protection, facial exercises "
+23," Red, itchy eyes, light sensitivity ", Conjunctivitis , Erythromycin 0.5% eye ointment 4 times daily , 7-10 days , Vitamin A rich foods ," Avoid touching eyes, separate towels "
+24," Painful, blistering rash ", Shingles , Valacyclovir 1g three times daily , 7 days , Lysine-rich foods ," Avoid scratching, loose clothing "
+25," Abdominal pain, bloating, diarrhea ", Celiac disease , Gluten-free diet , Chronic , Gluten-free grains , Read food labels carefully 
+26," Joint pain, fever, rash ", Lyme disease , Doxycycline 100mg twice daily , 10-21 days , Nutrient-dense foods ," Tick prevention, follow-up care "
+27," Muscle stiffness, spasms ", Multiple sclerosis , Interferon beta-1a 30mcg weekly , Chronic , Low-fat diet , Avoid heat exposure 
+28," Chest pain, sweating, nausea ", Myocardial infarction , Aspirin 325mg + Metoprolol 25mg twice daily , Chronic ," Low-fat, low-sodium diet ", Cardiac rehabilitation 
+29," Swollen lymph nodes, night sweats ", Hodgkin's lymphoma , ABVD chemotherapy regimen , 6 months ," High-calorie, high-protein diet ", Infection prevention 
+30, Excessive daytime sleepiness , Narcolepsy , Modafinil 200mg daily , Chronic , Regular meal times ," Scheduled naps, sleep hygiene "
+31," Blood in stool, abdominal pain ", Ulcerative colitis , Mesalamine enema 4g nightly , Chronic , Low-fiber diet during flares , Stress management 
+32," Painful urination, lower back pain ", Urinary tract infection , Nitrofurantoin 100mg twice daily , 5 days , Increase water intake , Urinate after intercourse 
+33," Burning chest pain, regurgitation ", Gastroesophageal reflux disease , Omeprazole 20mg daily , 4-8 weeks , Avoid trigger foods , Elevate head while sleeping 
+34," Enlarged thyroid, weight gain ", Hypothyroidism , Levothyroxine 100mcg daily , Chronic , Iodine-rich foods , Regular thyroid function tests 
+35," Painful, swollen joints ", Gout , Colchicine 0.6mg twice daily , Acute attacks , Low-purine diet , Limit alcohol intake 
+36," Skin ulcers, joint pain ", Scleroderma , Methotrexate 15mg weekly , Chronic , High-fiber diet , Protect skin from cold 
+37," Difficulty breathing, wheezing ", Asthma , Albuterol inhaler 2 puffs every 4-6 hours , Chronic , Omega-3 rich foods ," Avoid triggers, peak flow monitoring "
+38," Excessive bruising, bleeding ", Hemophilia , Factor VIII concentrate as needed , Chronic , Iron-rich foods , Avoid contact sports 
+39," Seizures, loss of consciousness ", Epilepsy , Carbamazepine 200mg twice daily , Chronic , Ketogenic diet ," Avoid triggers, safety precautions "
+40," Muscle weakness, fatigue ", Muscular dystrophy , Prednisone 0.75mg/kg daily , Chronic , High-protein diet , Physical therapy 
+41," Hallucinations, delusions ", Schizophrenia , Risperidone 2mg twice daily , Chronic , Balanced diet ," Stress management, therapy "
+42," Recurrent infections, fatigue ", HIV/AIDS , Biktarvy (bictegravir/emtricitabine/tenofovir) once daily , Chronic , Nutrient-dense foods , Safe sex practices 
+43," Abdominal pain, yellowing of skin ", Gallstones , Ursodeoxycholic acid 300mg twice daily , 6 months , Low-fat diet , Weight management 
+44," Excessive hunger, weight loss ", Graves' disease , Methimazole 10mg three times daily , 12-18 months , Iodine-rich foods , Avoid caffeine 
+45," Skin lesions, fever, headache ", Rocky Mountain spotted fever , Doxycycline 100mg twice daily , 7 days , Balanced diet , Tick prevention 
+46," Trouble swallowing, weight loss ", Esophageal cancer , Cisplatin 75mg/m2 + 5-FU 1000mg/m2 every 3 weeks , 4-6 cycles ," Soft, nutrient-dense foods ", Swallowing exercises 
+47," Leg pain, swelling ", Deep vein thrombosis ," Rivaroxaban 15mg twice daily for 21 days, then 20mg daily ", 3-6 months , Low-vitamin K diet , Compression stockings 
+48," Skin rash, fever, joint pain ", Kawasaki disease , Aspirin 80-100mg/kg/day in 4 doses , 2 weeks , Heart-healthy diet , Cardiac monitoring 
+49," Vision loss, eye pain ", Optic neuritis , Methylprednisolone 1g IV daily for 3 days , 3 days , Vitamin-rich diet , Ophthalmology follow-up 
+50," Fatigue, joint pain, skin rashes ", Mixed connective tissue disease , Hydroxychloroquine 200mg twice daily , Chronic , Anti-inflammatory diet , Sun protection 
+51," Difficulty breathing, chest tightness ", Chronic obstructive pulmonary disease , Tiotropium 18mcg inhaled daily , Chronic , Low-salt diet , Smoking cessation 
+52," Frequent infections, anemia ", Sickle cell disease , Hydroxyurea 15mg/kg daily , Chronic , Folic acid-rich foods ," Hydration, avoid temperature extremes "
+53," Abdominal pain, bloody diarrhea ", Amoebic dysentery , Metronidazole 750mg three times daily , 5-10 days ," Bland diet, increase fluids ", Hand hygiene 
+54," Hair loss, scaling of the scalp ", Scalp psoriasis , Clobetasol 0.05% solution daily , 2-4 weeks , Omega-3 rich foods , Avoid harsh hair treatments 
+55," Muscle weakness, drooping eyelids ", Lambert-Eaton syndrome ," 3,4-Diaminopyridine 10mg three times daily ", Chronic , High-potassium foods , Regular neurological check-ups 
+56," Painful, red eye ", Acute glaucoma , Timolol 0.5% + Dorzolamide 2% eye drops twice daily , Chronic , Antioxidant-rich foods , Regular eye pressure checks 
+57," Fever, cough, chest pain ", Pneumonia , Amoxicillin-clavulanate 875-125mg twice daily , 7-10 days ," High-calorie, high-protein diet ", Deep breathing exercises 
+58," Skin ulcers, nerve damage ", Leprosy , Rifampicin 600mg + Dapsone 100mg + Clofazimine 300mg monthly , 12 months , Balanced diet , Regular skin checks 
+59," Excessive thirst, frequent urination ", Diabetes insipidus , Desmopressin 0.1mg twice daily , Chronic , Low-sodium diet , Fluid intake monitoring 
+60," Muscle pain, dark urine ", Rhabdomyolysis , IV fluids + Sodium bicarbonate , 3-5 days , High-fluid intake , Avoid strenuous exercise 
+61," Swelling of extremities, fatigue ", Nephrotic syndrome , Prednisone 1mg/kg daily , 4-16 weeks , Low-sodium diet , Monitor urine output 
+62," Fever, headache, stiff neck ", Meningitis , Ceftriaxone 2g IV every 12 hours , 7-14 days ," Soft diet, increase fluids ", Isolation precautions 
+63," Difficulty breathing, blue skin ", Cyanotic heart disease , Sildenafil 20mg three times daily , Chronic , Iron-rich foods , Avoid high altitudes 
+64," Abdominal pain, jaundice ", Pancreatic cancer , Gemcitabine 1000mg/m2 weekly , 3-6 months ," High-calorie, easy-to-digest foods ", Pain management 
+65," Memory loss, personality changes ", Frontotemporal dementia , Memantine 10mg twice daily , Chronic , Mediterranean diet , Safety-proof home 
+66," Muscle twitches, weakness ", Amyotrophic lateral sclerosis , Riluzole 50mg twice daily , Chronic , High-calorie diet , Respiratory support 
+67," Red, scaly rash ", Eczema , Tacrolimus 0.1% ointment twice daily , As needed , Omega-3 rich foods ," Avoid triggers, moisturize "
+68," Shortness of breath, fatigue ", Pulmonary hypertension , Sildenafil 20mg three times daily , Chronic , Low-salt diet , Avoid high altitudes 
+69," Painful urination, pelvic pain ", Interstitial cystitis , Pentosan polysulfate sodium 100mg three times daily , Chronic , Bladder-friendly diet , Pelvic floor exercises 
+70," Chest pain, cough, fever ", Tuberculosis , Isoniazid 300mg + Rifampin 600mg + Ethambutol 1200mg + Pyrazinamide 2000mg daily , 2 months ," High-calorie, high-protein diet "," Isolation, DOT therapy "
+71," Abdominal pain, nausea, vomiting ", Cyclic vomiting syndrome , Sumatriptan 25mg as needed , During episodes , Clear liquids during episodes , Stress management 
+72," Joint pain, fatigue, rash ", Sjögren's syndrome , Hydroxychloroquine 200mg twice daily , Chronic , Sugar-free diet , Dental hygiene 
+73," Muscle weakness, difficulty walking ", Guillain-Barré syndrome , Intravenous immunoglobulin 0.4g/kg daily , 5 days , High-protein diet , Physical therapy 
+74, Swelling of salivary glands , Mumps , Acetaminophen 500mg every 6 hours , 7-10 days , Soft foods , Isolation 
+75, Painful swelling of salivary glands , Mumps , Acetaminophen 500mg every 6 hours , 7-10 days ," Soft, bland foods "," Isolation, hydration "
+76," Skin ulcers, fever, fatigue ", Leishmaniasis , Sodium stibogluconate 20mg/kg daily , 20-28 days , High-protein diet , Vector control 
+77," Muscle weakness, drooping eyelids ", Myasthenia gravis , Pyridostigmine 60mg every 4 hours , Chronic , Easy-to-chew foods , Avoid overexertion 
+78," Abdominal pain, bloating, diarrhea ", Celiac disease , Strict gluten-free diet , Chronic , Gluten-free grains , Read food labels carefully 
+79," Red, scaly patches on skin ", Psoriasis , Adalimumab 40mg every other week , Chronic , Anti-inflammatory diet , Moisturize skin regularly 
+80, Excessive daytime sleepiness , Narcolepsy , Modafinil 200mg daily , Chronic , Regular meal times , Scheduled naps 
+81," Joint pain, fever, rash ", Lyme disease , Doxycycline 100mg twice daily , 14-21 days , Nutrient-dense foods , Tick prevention 
+82," Tremors, rigidity, balance problems ", Multiple system atrophy , Levodopa/Carbidopa 25/100mg three times daily , Chronic ," Soft, easy-to-swallow foods ", Fall prevention 
+83," Excessive bruising, bleeding ", Von Willebrand disease , Desmopressin nasal spray 300mcg daily , As needed , Iron-rich foods , Avoid blood thinners 
+84," Skin rash, muscle weakness ", Dermatomyositis , Prednisone 1mg/kg daily , 4-6 weeks , High-protein diet , Sun protection 
+85," Abdominal pain, jaundice ", Pancreatic cancer , Gemcitabine 1000mg/m2 weekly , 3-6 months ," High-calorie, easy-to-digest foods ", Pain management 
+86," Vision loss, eye pain ", Optic neuritis , Methylprednisolone 1g IV daily , 3-5 days , Vitamin-rich diet , Ophthalmology follow-up 
+87," Difficulty breathing, chest pain ", Pulmonary embolism , Rivaroxaban 15mg twice daily , 3 weeks , Low-fat diet , Compression stockings 
+88," Facial pain, nasal congestion ", Chronic sinusitis , Fluticasone nasal spray 50mcg twice daily , Chronic , Spicy foods , Nasal irrigation 
+89," Weight gain, purple striae ", Cushing's syndrome , Ketoconazole 200mg twice daily , 3-6 months , Low-sodium diet , Gradual steroid tapering 
+90," Muscle pain, dark urine ", Rhabdomyolysis , IV fluids + Sodium bicarbonate , 3-5 days , High-fluid intake , Avoid strenuous exercise 
+91," Swollen lymph nodes, night sweats ", Hodgkin's lymphoma , ABVD chemotherapy regimen , 6 months ," High-calorie, high-protein diet ", Infection prevention 
+92," Difficulty speaking, facial weakness ", Bell's palsy , Prednisone 60mg daily , 5 days , Soft foods , Eye protection 
+93," Painful, blistering rash ", Shingles , Valacyclovir 1g three times daily , 7 days , Lysine-rich foods , Avoid scratching 
+94," Excessive thirst, frequent urination ", Diabetes insipidus , Desmopressin 0.1mg twice daily , Chronic , Low-sodium diet , Fluid intake monitoring 
+95," Skin lesions, nerve damage ", Lepromatous leprosy , Rifampicin 600mg + Clofazimine 300mg + Dapsone 100mg monthly , 12 months , Balanced diet , Regular nerve function tests 
+96," Fever, headache, stiff neck ", Bacterial meningitis , Ceftriaxone 2g IV every 12 hours , 7-14 days ," Soft diet, increase fluids ", Isolation precautions 
+97," Difficulty breathing, blue skin ", Tetralogy of Fallot , Propranolol 20mg three times daily , Until surgery , Iron-rich foods , Avoid dehydration 
+98," Memory loss, personality changes ", Frontotemporal dementia , Memantine 10mg twice daily , Chronic , Mediterranean diet , Safety-proof home 
+99," Muscle twitches, weakness ", Amyotrophic lateral sclerosis , Riluzole 50mg twice daily , Chronic , High-calorie diet , Respiratory support 
+100," Red, scaly rash ", Atopic dermatitis , Tacrolimus 0.1% ointment twice daily , As needed , Omega-3 rich foods , Avoid triggers 
+101," Shortness of breath, fatigue ", Primary pulmonary hypertension , Sildenafil 20mg three times daily , Chronic , Low-salt diet , Avoid high altitudes 
+102," Painful urination, pelvic pain ", Interstitial cystitis , Pentosan polysulfate sodium 100mg three times daily , Chronic , Bladder-friendly diet , Pelvic floor exercises 
+103," Chest pain, cough, night sweats ", Multidrug-resistant tuberculosis , Bedaquiline 400mg daily + Linezolid 600mg daily , 24 weeks ," High-calorie, high-protein diet "," Isolation, DOT therapy "
+104," Abdominal pain, nausea, vomiting ", Cyclic vomiting syndrome , Sumatriptan 25mg as needed , During episodes , Clear liquids during episodes , Stress management 
+105," Dry eyes, dry mouth ", Sjögren's syndrome , Pilocarpine 5mg three times daily , Chronic , Sugar-free diet , Dental hygiene 
+106," Muscle weakness, difficulty walking ", Guillain-Barré syndrome , Intravenous immunoglobulin 0.4g/kg daily , 5 days , High-protein diet , Physical therapy 
+107," Painful swollen joints, fever ", Rheumatic fever , Penicillin V 250mg twice daily , 10 days , Low-sodium diet , Bed rest 
+108," Blood in urine, flank pain ", Kidney stones , Tamsulosin 0.4mg daily , 4 weeks , Increase water intake , Limit sodium and animal protein 
+109," Skin ulcers, joint pain ", Systemic sclerosis , Methotrexate 15mg weekly , Chronic , High-fiber diet , Protect skin from cold 
+110," Difficulty breathing, wheezing ", Cystic fibrosis , Dornase alfa 2.5mg inhaled daily , Chronic ," High-calorie, high-fat diet ", Airway clearance techniques 
+111," Seizures, developmental delays ", Dravet syndrome , Stiripentol 50mg/kg daily , Chronic , Ketogenic diet , Avoid triggers 
+112," Excessive sweating, rapid heartbeat ", Graves' disease , Methimazole 10mg three times daily , 12-18 months , Iodine-rich foods , Avoid caffeine 
+113," Skin rash, fever, arthritis ", Still's disease , Anakinra 100mg daily , Chronic , Anti-inflammatory diet , Regular liver function tests 
+114," Abnormal gait, loss of coordination ", Friedreich's ataxia , Idebenone 900mg daily , Chronic , High-antioxidant diet , Physical therapy 
+115," Fatigue, shortness of breath ", Sickle cell anemia , Hydroxyurea 15mg/kg daily , Chronic , Folic acid-rich foods , Avoid dehydration 
+116," Abdominal pain, bloody diarrhea ", Amoebic dysentery , Metronidazole 750mg three times daily , 5-10 days ," Bland diet, increase fluids ", Hand hygiene 
+117," Hair loss, scaling of the scalp ", Scalp psoriasis , Clobetasol 0.05% solution daily , 2-4 weeks , Omega-3 rich foods , Avoid harsh hair treatments 
+118," Muscle weakness, drooping eyelids ", Lambert-Eaton syndrome ," 3,4-Diaminopyridine 10mg three times daily ", Chronic , High-potassium foods , Regular neurological check-ups 
+119," Painful, red eye ", Acute angle-closure glaucoma , Timolol 0.5% + Dorzolamide 2% eye drops twice daily , Chronic , Antioxidant-rich foods , Regular eye pressure checks 
+120," Fever, cough, chest pain ", Community-acquired pneumonia , Levofloxacin 750mg daily , 5 days ," High-calorie, high-protein diet ", Deep breathing exercises 
+121," Skin ulcers, peripheral neuropathy ", Paucibacillary leprosy , Rifampicin 600mg + Dapsone 100mg monthly , 6 months , Balanced diet , Regular skin checks 
+122," Excessive hunger, weight loss ", Hyperthyroidism , Propylthiouracil 50mg three times daily , 12-18 months , Iodine-rich foods , Avoid caffeine 
+123," Skin lesions, fever, headache ", Rocky Mountain spotted fever , Doxycycline 100mg twice daily , 7 days , Balanced diet , Tick prevention 
+124," Trouble swallowing, weight loss ", Esophageal cancer , Cisplatin 75mg/m2 + 5-FU 1000mg/m2 every 3 weeks , 4-6 cycles ," Soft, nutrient-dense foods ", Swallowing exercises 
+125," Leg pain, swelling ", Deep vein thrombosis , Rivaroxaban 15mg twice daily , 21 days , Low-vitamin K diet , Compression stockings 
+126," Skin rash, fever, joint pain ", Kawasaki disease , Aspirin 80-100mg/kg/day in 4 doses , 2 weeks , Heart-healthy diet , Cardiac monitoring 
+127," Fatigue, joint pain, skin rashes ", Mixed connective tissue disease , Hydroxychloroquine 200mg twice daily , Chronic , Anti-inflammatory diet , Sun protection 
+128," Difficulty breathing, chest tightness ", Chronic obstructive pulmonary disease , Tiotropium 18mcg inhaled daily , Chronic , Low-salt diet , Smoking cessation 
+129," Frequent infections, anemia ", Severe combined immunodeficiency , Stem cell transplantation , One-time , Sterile diet , Isolation precautions 
+130," Abdominal pain, vomiting blood ", Gastric ulcer , Pantoprazole 40mg twice daily , 4-8 weeks , Bland diet , Avoid NSAIDs 
+131," Hair loss, nail changes ", Alopecia areata , Topical minoxidil 5% twice daily , Chronic , Biotin-rich foods , Stress management 
+132," Muscle weakness, salt craving ", Addison's disease ," Hydrocortisone 20mg AM, 10mg PM ", Chronic , High-sodium diet , Wear medical alert bracelet 
+133," Painful, swollen big toe ", Gout , Colchicine 0.6mg twice daily , Acute attacks , Low-purine diet , Limit alcohol intake 
+134," Blood in urine, weight loss ", Bladder cancer , BCG immunotherapy once weekly , 6 weeks , Increase fluid intake , Smoking cessation 
+135, Yellowing of skin and eyes , Hepatitis A , Supportive care , 4-8 weeks , Well-cooked meals , Hand hygiene 
+136," Muscle pain, fever, headache ", Malaria , Artemether/Lumefantrine 4 tablets twice daily , 3 days , Increase fluids , Mosquito prevention 
+137," Vision changes, headaches ", Pituitary tumor , Cabergoline 0.5mg twice weekly , Chronic , Balanced diet , Regular MRI scans 
+138, Recurrent kidney infections , Vesicoureteral reflux , Trimethoprim/Sulfamethoxazole 3mg/kg daily , Chronic , Cranberry juice , Proper hygiene 
+139," Skin thickening, joint stiffness ", Scleroderma , Methotrexate 15mg weekly , Chronic , High-fiber diet , Keep warm 
+140," Bone pain, fatigue ", Multiple myeloma , Lenalidomide 25mg daily + Dexamethasone 40mg weekly , Chronic , Calcium-rich diet , Fall prevention 
+141," Swollen, painful lymph nodes ", Cat scratch disease ," Azithromycin 500mg day 1, then 250mg days 2-5 ", 5 days , Balanced diet , Avoid cat scratches 
+142, Excessive daytime sleepiness , Obstructive sleep apnea , CPAP therapy nightly , Chronic , Weight loss diet , Side sleeping 
+143," Red, itchy skin patches ", Eczema , Tacrolimus 0.1% ointment twice daily , As needed , Omega-3 rich foods , Avoid triggers 
+144," Difficulty concentrating, hyperactivity ", Attention deficit hyperactivity disorder , Methylphenidate 20mg twice daily , Chronic , Balanced diet , Behavioral therapy 
+145," Painful intercourse, pelvic pain ", Endometriosis , Dienogest 2mg daily , Chronic , Anti-inflammatory diet , Pelvic floor therapy 
+146, Enlarged breasts in males , Gynecomastia , Tamoxifen 20mg daily , 3-9 months , Low-fat diet , Regular breast exams 
+147, Excessive facial hair in females , Polycystic ovary syndrome , Spironolactone 100mg daily , Chronic , Low glycemic index foods , Regular exercise 
+148, Recurrent throat infections , Chronic tonsillitis , Penicillin V 250mg twice daily , 10 days ," Soft, cold foods ", Good oral hygiene 
+149, Recurring cold sores , Herpes simplex , Acyclovir 400mg three times daily , 5 days , Lysine-rich foods , Avoid triggers 
+150," Difficulty walking, vision problems ", Multiple sclerosis , Interferon beta-1a 30mcg weekly , Chronic , Low-fat diet , Avoid heat exposure 
+151," Enlarged thyroid, weight loss ", Toxic nodular goiter , Methimazole 10mg three times daily , 12-18 months , Iodine-rich foods , Regular thyroid function tests 
+152," Chest pain, shortness of breath ", Pericarditis , Ibuprofen 600mg three times daily , 1-2 weeks , Heart-healthy diet , Avoid strenuous activity 
+153," Itchy skin, dark urine ", Primary biliary cholangitis , Ursodeoxycholic acid 13-15mg/kg daily , Chronic , Low-fat diet , Regular liver function tests 
+154," Skin bumps, joint pain ", Erythema nodosum , Prednisone 40mg daily , 2-4 weeks , Anti-inflammatory diet , Leg elevation 
+155," Abdominal pain, bloody stools ", Diverticulitis , Ciprofloxacin 500mg + Metronidazole 500mg twice daily , 7-10 days , Low-fiber diet during flares , Increase fiber gradually after treatment 
+156," Facial flushing, diarrhea ", Carcinoid syndrome , Octreotide 100-150mcg three times daily , Chronic , Avoid trigger foods , Regular serotonin level checks 
+157," Swollen legs, protein in urine ", Nephrotic syndrome , Prednisone 1mg/kg daily , 4-16 weeks , Low-sodium diet , Monitor urine output 
+158," Difficulty swallowing, regurgitation ", Achalasia , Nifedipine 10mg before meals , Chronic ," Soft, well-chewed foods "," Eat slowly, upright position "
+159," Red, swollen gums ", Gingivitis , Chlorhexidine 0.12% mouthwash twice daily , 2 weeks , Vitamin C rich foods , Regular dental check-ups 
+160," Bulging eyes, double vision ", Graves' ophthalmopathy , Methylprednisolone 500mg IV weekly , 6 weeks , Selenium-rich foods , Protect eyes from irritants 
+161," Headache, neck stiffness ", Subarachnoid hemorrhage , Nimodipine 60mg every 4 hours , 21 days , Low-tyramine diet ," Bed rest, head elevation "
+162," Nose bleeds, easy bruising ", Hereditary hemorrhagic telangiectasia , Tranexamic acid 1g three times daily , As needed , Iron-rich foods , Humidify air 
+163," Muscle pain, dark urine ", Polymyositis , Prednisone 1mg/kg daily , 4-6 weeks , High-protein diet , Regular creatine kinase tests 
+164, Burning foot pain , Erythromelalgia , Gabapentin 300mg three times daily , Chronic , Cool foods , Avoid heat exposure 
+165," Yellowing of skin, itching ", Primary sclerosing cholangitis , Ursodeoxycholic acid 15-20mg/kg daily , Chronic , Low-fat diet , Regular colonoscopies 
+166," Swollen, painful joints ", Reactive arthritis , Naproxen 500mg twice daily , 4-6 weeks , Low-purine diet , Physical therapy 
+167," Facial pain, loss of sensation ", Trigeminal neuralgia , Carbamazepine 200mg twice daily , Chronic , Soft foods , Avoid trigger points 
+168," Blood in sputum, weight loss ", Goodpasture's syndrome , Cyclophosphamide 2mg/kg daily + Prednisone 1mg/kg daily , 3-6 months , Low-salt diet , Regular kidney function tests 
+169," Enlarged liver, yellow skin ", Wilson's disease , Penicillamine 250mg four times daily , Chronic , Low-copper diet , Regular copper level tests 
+170," Painful, swollen salivary glands ", Sialadenitis , Amoxicillin/Clavulanate 875/125mg twice daily , 7-10 days , Increase fluids , Warm compresses 
+171," Rapid heartbeat, tremors ", Jod-Basedow phenomenon , Propranolol 20mg three times daily , 2-4 weeks , Low-iodine diet , Regular heart rate monitoring 
+172, Burning chest pain , Zollinger-Ellison syndrome , Omeprazole 40mg twice daily , Chronic , Avoid acidic foods , Regular gastrin level tests 
+173," Skin hardening, joint pain ", Eosinophilic fasciitis , Prednisone 40mg daily , 3-6 months , Anti-inflammatory diet , Physical therapy 
+174," Muscle weakness, difficulty climbing stairs ", Polymyositis , Methotrexate 15mg weekly , Chronic , High-protein diet , Regular muscle strength tests 
+175," Persistent cough, night sweats ", Nontuberculous mycobacterial infection , Clarithromycin 500mg + Ethambutol 15mg/kg daily , 18-24 months , High-calorie diet , Avoid water aerosols 
+176," Abdominal pain, tarry stools ", Mallory-Weiss tear , Pantoprazole 40mg twice daily , 4-8 weeks , Soft diet , Avoid vomiting 
+177," Butterfly-shaped rash, joint pain ", Subacute cutaneous lupus erythematosus , Hydroxychloroquine 200mg twice daily , Chronic , Anti-inflammatory diet , Sun protection 
+178," Swelling around eyes, muscle pain ", Trichinosis , Albendazole 400mg twice daily , 8-14 days , High-protein diet , Proper food hygiene 
+179," Painful urination, cloudy urine ", Reiter's syndrome , Ciprofloxacin 500mg twice daily , 7-14 days , Anti-inflammatory diet , Safe sex practices 
+180," Enlarged spleen, easy bruising ", Gaucher's disease , Imiglucerase 60 units/kg every 2 weeks , Chronic , Calcium-rich diet , Avoid contact sports 
+181," Red, scaly skin patches ", Mycosis fungoides , Bexarotene 300mg/m2 daily , Chronic , Antioxidant-rich diet , Regular skin exams 
+182," Painful, swollen lymph nodes ", Kikuchi disease , Prednisone 40mg daily , 2-4 weeks , Anti-inflammatory diet , Rest 
+183," Shortness of breath, leg swelling ", Eisenmenger syndrome , Bosentan 62.5mg twice daily , Chronic , Low-salt diet , Avoid high altitudes 
+184," Fever, cough, chest pain ", Legionnaires' disease , Levofloxacin 750mg daily , 7-14 days , High-calorie diet , Respiratory hygiene 
+185," Abdominal pain, greasy stools ", Whipple's disease , Ceftriaxone 2g IV daily , 2 weeks , Low-fat diet , Long-term antibiotic prophylaxis 
+186," Joint pain, skin rash ", Adult-onset Still's disease , Anakinra 100mg daily , Chronic , Anti-inflammatory diet , Regular liver function tests 
+187," Muscle weakness, difficulty swallowing ", Inclusion body myositis , Intravenous immunoglobulin 2g/kg monthly , Chronic , High-protein diet , Swallowing therapy 
+188," Abdominal pain, chronic diarrhea ", Tropical sprue , Tetracycline 500mg four times daily , 3-6 months , Folate-rich diet , Probiotic supplements 
+189," Red, painful eyes ", Scleritis , Prednisolone acetate 1% eye drops 4 times daily , 2-4 weeks , Anti-inflammatory diet , Protect eyes from injury 
+190," Shortness of breath, blue lips ", Methemoglobinemia , Methylene blue 1-2mg/kg IV , Single dose , High-oxygen foods , Avoid trigger medications 
+191," Skin ulcers, joint pain ", Behçet's disease , Colchicine 0.6mg twice daily , Chronic , Mediterranean diet , Stress management 
+192," Enlarged lymph nodes, night sweats ", Castleman disease , Siltuximab 11mg/kg every 3 weeks , Chronic , High-protein diet , Infection prevention 
+193," Abdominal pain, blood in stool ", Ischemic colitis , Ciprofloxacin 500mg + Metronidazole 500mg three times daily , 7-10 days , Clear liquid diet initially , Smoking cessation 
+194," Muscle weakness, difficulty climbing stairs ", Becker muscular dystrophy , Prednisone 0.75mg/kg daily , Chronic , High-protein diet , Physical therapy 
+195," Painful, swollen joints ", Familial Mediterranean fever , Colchicine 0.6mg twice daily , Chronic , Mediterranean diet , Stress management 
+196," Vision loss, eye pain ", Central retinal artery occlusion , Timolol 0.5% eye drops twice daily , Chronic , Heart-healthy diet , Smoking cessation 
+197," Skin discoloration, shortness of breath ", Argyria , Supportive care , Chronic , Selenium-rich foods , Avoid silver-containing products 
+198," Abdominal pain, fever ", Familial adenomatous polyposis , Sulindac 150mg twice daily , Chronic , High-fiber diet , Regular colonoscopies 
+199," Red, swollen eyelids ", Blepharitis , Erythromycin 0.5% ointment twice daily , 2-4 weeks , Omega-3 rich foods , Eyelid hygiene 
+200," Painful urination, lower back pain ", Chronic bacterial prostatitis , Ciprofloxacin 500mg twice daily , 4-6 weeks , Increase fluid intake , Avoid alcohol and caffeine 
+201," Enlarged hands, feet, and facial features ", Acromegaly , Octreotide 100mcg three times daily , Chronic , Low-carb diet , Regular growth hormone tests 
+202," Muscle stiffness, tremor ", Stiff person syndrome , Diazepam 5-10mg three times daily , Chronic , Gluten-free diet , Physical therapy 
+203," Shortness of breath, fatigue ", Alpha-1 antitrypsin deficiency , Augmentation therapy 60mg/kg weekly , Chronic , High-protein diet , Avoid smoke exposure 
+204," Recurrent fractures, bone pain ", Osteogenesis imperfecta , Alendronate 70mg weekly , Chronic , Calcium-rich diet , Fall prevention 
+205," Abdominal pain, nausea ", Zollinger-Ellison syndrome , Esomeprazole 40mg twice daily , Chronic , Low-acid diet , Regular gastrin level tests 
+206," Eye pain, blurred vision ", Acute posterior multifocal placoid pigment epitheliopathy , Prednisone 1mg/kg daily , 4-6 weeks , Eye-healthy diet , Regular eye exams 
+207," Muscle weakness, difficulty walking ", Lambert-Eaton myasthenic syndrome ," 3,4-Diaminopyridine 10mg three times daily ", Chronic , High-potassium foods , Regular neurological check-ups 
+208," Recurrent infections, delayed wound healing ", Chronic granulomatous disease , Trimethoprim/Sulfamethoxazole 160/800mg daily , Chronic , Antioxidant-rich diet , Infection prevention 
+209," Painful, swollen joints ", Henoch-Schönlein purpura , Prednisone 1mg/kg daily , 1-2 weeks , Low-salt diet ," Rest, elevate affected joints "
+210," Chest pain, shortness of breath ", Prinzmetal angina , Diltiazem 30mg three times daily , Chronic , Heart-healthy diet , Avoid cold exposure 
+211," Abdominal pain, vomiting ", Cyclical vomiting syndrome , Amitriptyline 25mg at bedtime , Chronic , Low-fat diet , Stress management 
+212," Skin rash, muscle weakness ", Antisynthetase syndrome , Azathioprine 2mg/kg daily , Chronic , High-protein diet , Regular pulmonary function tests 
+213," Red, painful tongue ", Glossitis , Nystatin oral suspension 5ml four times daily , 7-14 days ," Soft, bland diet ", Oral hygiene 
+214," Joint pain, skin rash ", Schnitzler syndrome , Anakinra 100mg daily , Chronic , Anti-inflammatory diet , Regular blood tests 
+215," Difficulty speaking, facial weakness ", Mobius syndrome ," Supportive care, speech therapy ", Chronic , Soft foods , Regular eye care 
+216," Abdominal pain, diarrhea ", Microscopic colitis , Budesonide 9mg daily , 8 weeks , Low-fiber diet during flares , Avoid NSAIDs 
+217," Skin ulcers, joint pain ", Pyoderma gangrenosum , Cyclosporine 5mg/kg daily , 4-8 weeks , Wound-healing diet , Wound care 
+218," Painful urination, pelvic pain ", Chronic prostatitis , Ciprofloxacin 500mg twice daily , 4-6 weeks , Increase fluid intake , Pelvic floor exercises 
+219," Vision loss, headaches ", Pseudotumor cerebri , Acetazolamide 500mg twice daily , Chronic , Low-salt diet , Weight management 
+220," Skin thickening, joint pain ", Eosinophilic fasciitis , Prednisone 40mg daily , 3-6 months , Anti-inflammatory diet , Physical therapy 
+221, Recurrent kidney stones , Cystinuria , Potassium citrate 10-20mEq three times daily , Chronic , Low-sodium diet , Increase fluid intake 
+222," Muscle weakness, heart problems ", Emery-Dreifuss muscular dystrophy ," Supportive care, beta-blockers ", Chronic , Heart-healthy diet , Regular cardiac monitoring 
+223," Facial pain, nasal discharge ", Allergic fungal sinusitis , Prednisone 0.5mg/kg daily + Fluconazole 200mg daily , 3-4 weeks , Low-sugar diet , Nasal irrigation 
+224," Muscle weakness, drooping eyelids ", Congenital myasthenic syndrome , Pyridostigmine 60mg three times daily , Chronic , High-protein diet , Regular respiratory function tests 
+225," Abdominal pain, bloating ", Small intestinal bacterial overgrowth , Rifaximin 550mg three times daily , 14 days , Low FODMAP diet , Probiotic supplements 
+226," Skin lesions, nerve pain ", Post-herpetic neuralgia , Gabapentin 300mg three times daily , 4-8 weeks , Lysine-rich foods , Avoid tight clothing 
+227," Joint pain, skin rashes ", Muckle-Wells syndrome , Canakinumab 150mg subcutaneously every 8 weeks , Chronic , Anti-inflammatory diet , Regular hearing tests 
+228," Difficulty swallowing, muscle weakness ", Oculopharyngeal muscular dystrophy ," Supportive care, speech therapy ", Chronic ," Soft, pureed foods ", Swallowing techniques 
+229," Abdominal pain, bloody diarrhea ", Amebiasis , Metronidazole 750mg three times daily , 5-10 days ," Bland diet, increase fluids ", Hand hygiene 
+230," Hair loss, fatigue ", Telogen effluvium , Biotin 5mg daily , 3-6 months , Protein-rich diet , Stress management 
+231," Bone pain, fractures ", Hypophosphatasia , Asfotase alfa 2mg/kg three times weekly , Chronic , Calcium-rich diet , Regular bone density scans 
+232, Excessive daytime sleepiness , Kleine-Levin syndrome , Lithium carbonate 300mg three times daily , During episodes , Regular meal times , Sleep hygiene 
+233," Skin ulcers, eye inflammation ", Adamantiades-Behçet's disease , Colchicine 0.6mg twice daily , Chronic , Mediterranean diet , Avoid stress 
+234," Muscle pain, weakness ", McArdle disease , Creatine 20g daily , Chronic , High-protein diet , Avoid intense exercise 
+235," Recurrent infections, eczema ", Hyper-IgE syndrome , Trimethoprim/Sulfamethoxazole 160/800mg daily , Chronic , Immune-boosting foods , Infection prevention 
+236," Abdominal pain, jaundice ", Sphincter of Oddi dysfunction , Nifedipine 10mg three times daily , 4-8 weeks , Low-fat diet , Avoid alcohol 
+237," Painful limbs, skin ulcers ", Buerger's disease , Cilostazol 100mg twice daily , Chronic , Heart-healthy diet , Smoking cessation 
+238," Vision loss, eye pain ", Retinal vein occlusion , Ranibizumab 0.5mg intravitreal injection monthly , 6 months , Eye-healthy diet , Blood pressure control 
+239," Skin thickening, joint pain ", Nephrogenic systemic fibrosis , Supportive care , Chronic , Low-phosphate diet , Avoid gadolinium contrast 
+240, Recurrent oral ulcers ," Periodic fever, aphthous stomatitis, pharyngitis, adenitis (PFAPA) syndrome ", Prednisone 1mg/kg single dose , During episodes , Soft foods during flares , Regular dental check-ups 
+241," Muscle weakness, contractures ", Emery-Dreifuss muscular dystrophy ," Supportive care, physical therapy ", Chronic , Heart-healthy diet , Regular cardiac monitoring 
+242," Abdominal pain, weight loss ", Chronic mesenteric ischemia , Aspirin 81mg daily , Chronic ," Small, frequent meals ", Smoking cessation 
+243," Skin rash, muscle weakness ", Dermatomyositis , Prednisone 1mg/kg daily , 4-6 weeks , Anti-inflammatory diet , Sun protection 
+244," Painful, swollen joints ", Familial cold autoinflammatory syndrome , Anakinra 100mg daily , Chronic , Anti-inflammatory diet , Avoid cold exposure 
+245," Vision problems, headaches ", Idiopathic intracranial hypertension , Acetazolamide 1000mg daily , Chronic , Low-sodium diet , Weight management 
+246," Abdominal pain, diarrhea ", Bile acid malabsorption , Cholestyramine 4g three times daily , Chronic , Low-fat diet , Avoid trigger foods 
+247," Muscle weakness, heart problems ", Danon disease , Supportive care , Chronic , Heart-healthy diet , Regular cardiac monitoring 
+248," Skin lesions, joint pain ", Sweet's syndrome , Prednisone 0.5-1mg/kg daily , 4-6 weeks , Anti-inflammatory diet , Wound care 
+249," Recurrent fever, abdominal pain ", Tumor necrosis factor receptor-associated periodic syndrome , Etanercept 50mg weekly , Chronic , Mediterranean diet , Stress management 
+250," Difficulty walking, speech problems ", Cerebellar ataxia ," Supportive care, physical therapy ", Chronic , Balanced diet , Fall prevention 
+251," Abdominal pain, vomiting ", Cyclic vomiting syndrome , Amitriptyline 10-20mg at bedtime , Chronic , Low-fat diet , Stress management 
+252," Skin rash, joint pain ", Cryopyrin-associated periodic syndromes , Rilonacept 160mg weekly , Chronic , Anti-inflammatory diet , Avoid cold exposure 
+253," Vision loss, eye pain ", Acute retinal necrosis , Acyclovir 10mg/kg IV every 8 hours , 7-10 days , Eye-healthy diet , Ophthalmology follow-up 
+254," Muscle weakness, heart problems ", Duchenne muscular dystrophy , Deflazacort 0.9mg/kg daily , Chronic , High-protein diet , Regular cardiac monitoring 
+255," Abdominal pain, diarrhea ", Microscopic colitis , Budesonide 9mg daily , 8 weeks , Low-fiber diet during flares , Avoid NSAIDs 
+256," Skin lesions, eye inflammation ", Vogt-Koyanagi-Harada disease , Prednisone 1-2mg/kg daily , 4-6 weeks , Anti-inflammatory diet , Sun protection 
+257," Muscle pain, dark urine ", Carnitine palmitoyltransferase II deficiency , Medium-chain triglyceride oil 20-30% of total calories , Chronic ," Low-fat, high-carb diet ", Avoid prolonged exercise 
+258," Recurrent infections, anemia ", Wiskott-Aldrich syndrome , Intravenous immunoglobulin 400-600mg/kg monthly , Chronic , Immune-boosting foods , Infection prevention 
+259," Abdominal pain, weight loss ", Median arcuate ligament syndrome , Celiac plexus block , One-time procedure ," Small, frequent meals ", Pain management 
+260," Skin rash, fever ", Still's disease , Anakinra 100mg daily , Chronic , Anti-inflammatory diet , Regular liver function tests 
+261," Joint pain, fatigue ", Polymyalgia rheumatica , Prednisone 15mg daily , 1-2 years , Calcium-rich diet , Bone density monitoring 
+262," Vision problems, balance issues ", Susac syndrome ," Methylprednisolone 1000mg IV daily for 3 days, then oral prednisone ", 6-12 months , Brain-healthy diet , Regular MRI scans 
+263," Abdominal pain, jaundice ", Choledochal cyst , Surgical resection , One-time procedure , Low-fat diet post-surgery , Regular liver function tests 
+264," Muscle weakness, respiratory problems ", Pompe disease , Alglucosidase alfa 20mg/kg every 2 weeks , Chronic , High-protein diet , Regular pulmonary function tests 
+265," Skin lesions, lymph node swelling ", Lymphomatoid papulosis , Methotrexate 10-25mg weekly , Chronic , Folic acid-rich foods , Regular skin exams 
+266," Recurrent fever, rash ", CANDLE syndrome , Baricitinib 2-4mg daily , Chronic , Anti-inflammatory diet , Regular blood tests 
+267," Difficulty walking, vision problems ", Refsum disease , Phytanic acid-restricted diet , Chronic , Very low phytanic acid diet , Regular neurological check-ups 
+268," Abdominal pain, chronic diarrhea ", Collagenous colitis , Mesalamine 2.4g daily , 8 weeks , Low-fiber diet during flares , Avoid NSAIDs 
+269," Skin thickening, joint pain ", Scleredema , Methotrexate 15mg weekly , Chronic , Anti-inflammatory diet , Physical therapy 
+270," Muscle weakness, heart problems ", Limb-girdle muscular dystrophy ," Supportive care, physical therapy ", Chronic , Heart-healthy diet , Regular cardiac monitoring 
+271," Vision loss, eye pain ", Leber hereditary optic neuropathy , Idebenone 900mg daily , Chronic , Antioxidant-rich diet , Smoking cessation 
+272," Abdominal pain, weight loss ", Chronic intestinal pseudo-obstruction , Metoclopramide 10mg before meals , Chronic ," Small, frequent meals ", Parenteral nutrition if needed 
+273," Skin rash, joint pain ", Majeed syndrome , Anakinra 1-2mg/kg daily , Chronic , Calcium-rich diet , Regular bone density scans 
+274," Muscle weakness, heart problems ", Friedreich's ataxia , Idebenone 900mg daily , Chronic , Heart-healthy diet , Regular cardiac monitoring 
+275," Recurrent infections, skin abscesses ", Chronic granulomatous disease , Interferon-gamma 50μg/m2 three times weekly , Chronic , Immune-boosting foods , Infection prevention 
+276," Abdominal pain, nausea ", Gastroparesis , Domperidone 10mg three times daily , Chronic ," Small, frequent meals ", Low-fiber diet 
+277," Skin lesions, nerve pain ", Erythromelalgia , Gabapentin 300mg three times daily , Chronic , Cool foods , Avoid heat exposure 
+278," Joint pain, skin rash ", Blau syndrome , Adalimumab 40mg every other week , Chronic , Anti-inflammatory diet , Regular eye exams 
+279," Vision problems, hearing loss ", Alström syndrome , Supportive care , Chronic , Low-calorie diet , Regular sensory function tests 
+280," Abdominal pain, bloody diarrhea ", Enteropathic arthritis , Sulfasalazine 1g twice daily , Chronic , Low-residue diet during flares , Joint protection 
+281," Muscle weakness, cataracts ", Myotonic dystrophy ," Supportive care, physical therapy ", Chronic , Balanced diet , Regular cardiac monitoring 
+282," Skin rash, fever ", Schnitzler syndrome , Anakinra 100mg daily , Chronic , Anti-inflammatory diet , Regular blood tests 
+283," Recurrent infections, eczema ", Wiskott-Aldrich syndrome , Intravenous immunoglobulin 400-600mg/kg monthly , Chronic , Immune-boosting foods , Infection prevention 
+284," Abdominal pain, weight loss ", Superior mesenteric artery syndrome ," Nutritional support, small frequent meals ", Chronic ," High-calorie, low-bulk diet ", Posture changes while eating 
+285," Skin ulcers, joint pain ", Pyoderma gangrenosum , Cyclosporine 5mg/kg daily , 4-8 weeks , Wound-healing diet , Wound care 
+286," Muscle weakness, heart problems ", Nemaline myopathy ," Supportive care, physical therapy ", Chronic , High-protein diet , Regular respiratory function tests 
+287," Vision loss, headaches ", Pseudotumor cerebri , Acetazolamide 500mg twice daily , Chronic , Low-salt diet , Weight management 
+288," Abdominal pain, diarrhea ", Cronkhite-Canada syndrome , Corticosteroids and nutritional support , Chronic ," High-protein, vitamin-rich diet ", Regular colonoscopies 
+289," Skin thickening, joint pain ", Stiff skin syndrome ," Physical therapy, moisturizers ", Chronic , Anti-inflammatory diet , Range of motion exercises 
+290," Muscle weakness, respiratory problems ", Acid maltase deficiency , Alglucosidase alfa 20mg/kg every 2 weeks , Chronic , High-protein diet , Regular pulmonary function tests 
+291," Recurrent fever, abdominal pain ", Hyperimmunoglobulin D syndrome , Canakinumab 150mg every 4 weeks , Chronic , Anti-inflammatory diet , Stress management 
+292," Difficulty walking, speech problems ", Spinocerebellar ataxia ," Supportive care, speech therapy ", Chronic , Balanced diet , Fall prevention 
+293," Abdominal pain, vomiting ", Cyclical vomiting syndrome , Amitriptyline 25mg at bedtime , Chronic , Low-fat diet , Stress management 
+294," Skin rash, muscle weakness ", Eosinophilia-myalgia syndrome , Prednisone 40mg daily , 4-6 weeks , Anti-inflammatory diet , Avoid L-tryptophan supplements 
+295," Joint pain, fatigue ", Ehlers-Danlos syndrome ," Physical therapy, pain management ", Chronic , Vitamin C rich foods , Joint protection techniques 
+296," Vision problems, kidney issues ", Senior-Løken syndrome , Supportive care , Chronic , Renal diet , Regular ophthalmology check-ups 
+297," Difficulty swallowing, Chest pain, Regurgitation ", Achalasia , Nifedipine 10mg before meals , 4 weeks ," Eat soft, well-cooked foods ", Avoid lying down immediately after meals 
+298," Fatigue, Weight loss, Darkening of skin ", Addison's Disease , Hydrocortisone 20mg daily , 2 weeks , Increase salt intake , Monitor blood pressure regularly 
+299," Shortness of breath, Swelling, Fatigue ", Amyloidosis , Melphalan 0.15mg/kg daily , 3 weeks , Low-sodium diet , Avoid strenuous activities 
+300," Back pain, Stiffness, Fatigue ", Ankylosing Spondylitis , Naproxen 500mg twice daily , 4 weeks , Anti-inflammatory diet , Regular stretching exercises 
+301," Blood clots, Headaches, Vision problems ", Antiphospholipid Syndrome , Warfarin 5mg daily , 2 weeks , Avoid vitamin K-rich foods , Regular blood tests 
+302," Fatigue, Frequent infections, Easy bruising ", Aplastic Anemia , Cyclosporine 5mg/kg daily , 3 weeks , Iron-rich diet , Avoid crowds and sick people 
+303," Fatigue, Jaundice, Abdominal pain ", Autoimmune Hepatitis , Prednisone 40mg daily , 4 weeks , Avoid alcohol , Rest adequately 
+304," Skin lesion, Itching, Bleeding ", Basal Cell Carcinoma , Imiquimod 5% cream daily , 6 weeks , Antioxidant-rich foods , Protect skin from sun exposure 
+305," Fever, Sweats, Joint pain ", Brucellosis , Doxycycline 100mg twice daily , 6 weeks , Avoid unpasteurized dairy , Follow up with doctor regularly 
+306," Pain in limbs, Cold hands and feet ", Buerger's Disease , Cilostazol 100mg twice daily , 4 weeks , Quit smoking , Keep extremities warm 
+307," Blistering of skin, Itching ", Bullous Pemphigoid , Prednisone 0.5mg/kg daily , 3 weeks ," Soft, non-irritating foods ", Avoid trauma to skin 
+308," Flushing, Diarrhea, Wheezing ", Carcinoid Syndrome , Octreotide 100mcg three times daily , 4 weeks , Avoid trigger foods , Monitor heart rate 
+309," Fever, Fatigue, Body aches ", Chagas Disease , Benznidazole 5-7mg/kg daily , 60 days , High-protein diet , Avoid alcohol 
+310," Jaundice, Abdominal pain, Weight loss ", Cholangiocarcinoma , Gemcitabine 1000mg/m² weekly , 3 weeks , Low-fat diet , Monitor liver function 
+311," Bone pain, Swelling, Limited movement ", Chondrosarcoma , Doxorubicin 75mg/m² every 3 weeks , 4 weeks , Calcium-rich foods , Limit weight-bearing activities 
+312," Extreme fatigue, Sleep problems, Cognitive difficulties ", Chronic Fatigue Syndrome , Duloxetine 60mg daily , 6 weeks , Anti-inflammatory diet , Pace activities 
+313," Eye pain, Redness, Blurred vision ", Corneal Ulcer , Moxifloxacin 0.5% eye drops hourly , 2 weeks , Vitamin C-rich foods , Avoid touching or rubbing eyes 
+314," Headaches, Seizures, Confusion ", Cysticercosis , Albendazole 400mg twice daily , 4 weeks , Increase fluid intake , Avoid undercooked pork 
+315," Skin welts, Itching ", Dermatographia , Cetirizine 10mg daily , 2 weeks , Avoid trigger foods , Keep skin moisturized 
+316," Sore throat, Fever, Swollen glands ", Diphtheria , Erythromycin 500mg four times daily , 2 weeks ," Soft, cool foods ", Isolation until cleared by doctor 
+317," Hand contracture, Nodules in palm ", Dupuytren's Contracture , Collagenase injection 0.58mg per cord , 4 weeks , Vitamin E-rich foods , Hand exercises as directed 
+318," Joint hypermobility, Skin elasticity ", Ehlers-Danlos Syndrome , Celecoxib 200mg daily , Ongoing , Vitamin C-rich foods , Avoid joint overextension 
+319," Chest pain, Fever, Cough ", Empyema , Ceftriaxone 2g daily , 3 weeks , High-calorie diet , Deep breathing exercises 
+320," Fever, Fatigue, Heart murmur ", Endocarditis , Vancomycin 30mg/kg daily , 6 weeks , Low-sodium diet , Maintain good oral hygiene 
+321," Fever, Sore throat, Rash ", Enterovirus Infection , Acetaminophen 500mg every 6 hours , 1 week , Increase fluid intake , Wash hands frequently 
+322," Skin rash, Fever, Itching ", Erythema Multiforme , Prednisone 1mg/kg daily , 2 weeks , Avoid trigger foods , Protect affected skin 
+323," Headache, Dizziness, Burning pain in hands/feet ", Essential Thrombocythemia , Hydroxyurea 500mg daily , 4 weeks , Low-fat diet , Monitor platelet count 
+324," Pain in hands and feet, Skin rash, Kidney problems ", Fabry Disease , Agalsidase beta 1mg/kg every 2 weeks , Ongoing , Low-sodium diet , Regular kidney function tests 
+325," High cholesterol, Xanthomas ", Familial Hypercholesterolemia , Atorvastatin 40mg daily , Ongoing , Low-cholesterol diet , Regular lipid profile checks 
+326," Bone marrow failure, Birth defects ", Fanconi Anemia , Oxymetholone 1-5mg/kg daily , Ongoing , Iron-rich diet , Avoid exposure to chemicals 
+327," High blood pressure, Headache, Pulsatile tinnitus ", Fibromuscular Dysplasia , Amlodipine 5mg daily , Ongoing , Low-sodium diet , Regular blood pressure monitoring 
+328," Nausea, Vomiting, Early satiety ", Gastroparesis , Metoclopramide 10mg before meals , 4 weeks ," Small, frequent meals ", Avoid high-fat foods 
+329," Headache, Scalp tenderness, Vision changes ", Giant Cell Arteritis , Prednisone 1mg/kg daily , 4 weeks , Calcium-rich foods , Monitor for vision changes 
+330," Coughing up blood, Fatigue, Chest pain ", Goodpasture Syndrome , Cyclophosphamide 2mg/kg daily , 6 weeks , Low-sodium diet , Monitor kidney function 
+331," Fatigue, Enlarged spleen, Frequent infections ", Hairy Cell Leukemia , Cladribine 0.09mg/kg daily for 7 days , 4 weeks , Neutropenic diet , Avoid crowds and sick people 
+332," Joint pain, Fatigue, Abdominal pain ", Hemochromatosis , Deferoxamine 50mg/kg daily , Ongoing , Avoid iron-rich foods , Regular blood tests 
+333," Anemia, Jaundice, Fatigue ", Hereditary Spherocytosis , Folic acid 1mg daily , Ongoing , Iron-rich diet , Avoid contact sports 
+334," Fever, Cough, Chest pain ", Histoplasmosis , Itraconazole 200mg three times daily , 6 weeks , High-calorie diet , Avoid activities in bird-roosting areas 
+335," Involuntary movements, Cognitive decline, Mood changes ", Huntington's Disease , Tetrabenazine 12.5mg twice daily , Ongoing , Easy-to-swallow foods , Fall prevention measures 
+336," Headache, Nausea, Balance problems ", Hydrocephalus , Acetazolamide 250mg twice daily , 4 weeks , Low-sodium diet , Regular neurological check-ups 
+337," Fatigue, Weight loss, Decreased libido ", Hypopituitarism , Levothyroxine 100mcg daily , Ongoing , Balanced diet , Regular hormone level monitoring 
+338," Blood in urine, Foamy urine, Swelling ", IgA Nephropathy , Lisinopril 10mg daily , 4 weeks , Low-sodium diet , Monitor blood pressure 
+339," Hypoglycemia symptoms, Confusion, Sweating ", Insulinoma , Diazoxide 5mg/kg daily , 4 weeks , Frequent small meals , Regular blood glucose monitoring 
+340," Joint pain, Swelling, Stiffness ", Juvenile Idiopathic Arthritis , Naproxen 10mg/kg twice daily , 4 weeks , Anti-inflammatory diet , Physical therapy exercises 
+341," Skin lesions, Swollen lymph nodes ", Kaposi's Sarcoma , Paclitaxel 100mg/m² every 2 weeks , 6 weeks , Antioxidant-rich foods , Protect skin from trauma 
+342," Blurred vision, Sensitivity to light ", Keratoconus , Riboflavin drops 0.1% twice daily , Ongoing , Vitamin-rich diet , Avoid eye rubbing 
+343," Tall stature, Reduced facial hair, Infertility ", Klinefelter Syndrome , Testosterone 100mg weekly , Ongoing , Calcium-rich foods , Regular endocrine check-ups 
+344," Skin rash, Bone pain, Breathing problems ", Langerhans Cell Histiocytosis , Vinblastine 6mg/m² weekly , 6 weeks , High-calorie diet , Avoid smoking 
+345," Itchy rash, White patches in mouth ", Lichen Planus , Clobetasol 0.05% cream twice daily , 4 weeks , Avoid spicy foods , Gentle oral hygiene 
+346," Soft, movable lump under skin ", Lipoma , Observation , Ongoing , Maintain healthy weight , Avoid trauma to affected area 
+347," Fever, Muscle aches, Nausea ", Listeriosis , Ampicillin 2g every 4 hours , 2 weeks , Avoid unpasteurized dairy , Proper food hygiene 
+348," Widely spaced eyes, Cleft palate, Aortic aneurysm ", Loeys-Dietz Syndrome , Losartan 50mg daily , Ongoing , Low-sodium diet , Avoid strenuous activities 
+349," Back pain, Leg numbness, Weakness ", Lumbar Spinal Stenosis , Gabapentin 300mg three times daily , 4 weeks , Anti-inflammatory diet , Physical therapy exercises 
+350," Heart palpitations, Dizziness, Shortness of breath ", Lyme Carditis , Ceftriaxone 2g daily , 3 weeks , Heart-healthy diet , Avoid strenuous activities 
+351," Shortness of breath, Chest pain, Cough ", Lymphangioleiomyomatosis , Sirolimus 2mg daily , Ongoing , Low-salt diet , Avoid smoking 
+352," Rapid heart rate, High fever, Muscle rigidity ", Malignant Hyperthermia , Dantrolene 2.5mg/kg IV , Acute treatment , Cool fluids , Avoid trigger anesthetics 
+353," Tall stature, Long limbs, Heart problems ", Marfan Syndrome , Atenolol 25mg daily , Ongoing , Low-sodium diet , Avoid contact sports 
+354," Changing mole, Skin lesion ", Melanoma , Pembrolizumab 200mg every 3 weeks , 12 weeks , Antioxidant-rich foods , Regular skin checks 
+355," Headaches, Vision changes, Seizures ", Meningioma , Dexamethasone 4mg four times daily , 2 weeks , Low-sodium diet , Regular neurological check-ups 
+356," Chest pain, Shortness of breath, Cough ", Mesothelioma , Pemetrexed 500mg/m² every 3 weeks , 12 weeks , High-calorie diet , Avoid asbestos exposure 
+357," Heart palpitations, Chest discomfort ", Mitral Valve Prolapse , Metoprolol 25mg twice daily , Ongoing , Low-sodium diet , Regular cardiac check-ups 
+358," Fatigue, Bone pain, Frequent infections ", Monoclonal Gammopathy , Observation , Ongoing , Calcium-rich foods , Regular blood tests 
+359," Skin sores, Crawling sensations ", Morgellons Disease , Risperidone 1mg daily , 4 weeks , Balanced diet , Cognitive behavioral therapy 
+360," Facial swelling, Fever, Headache ", Mucormycosis , Amphotericin B 5mg/kg daily , 6 weeks , High-calorie diet , Control underlying conditions 
+361," Fatigue, Cold intolerance, Constipation ", Myxedema , Levothyroxine 1.6mcg/kg daily , Ongoing , Iodine-rich foods , Regular thyroid function tests 
+362," Skin tumors, Café-au-lait spots ", Neurofibromatosis , Observation , Ongoing , Antioxidant-rich foods , Regular skin checks 
+363," Enlarged liver and spleen, Developmental delays ", Niemann-Pick Disease , Miglustat 200mg three times daily , Ongoing , Low-cholesterol diet , Regular neurological check-ups 
+364," Swollen lymph nodes, Fever, Night sweats ", Non-Hodgkin Lymphoma , R-CHOP regimen every 3 weeks , 18 weeks , High-protein diet , Infection prevention measures 
+365," Bone pain, Fever, Swelling ", Osteomyelitis , Vancomycin 15mg/kg every 12 hours , 6 weeks , Calcium-rich foods , Limited weight-bearing on affected limb 
+366," Abdominal pain, Nausea, Vomiting ", Pancreatic Pseudocyst , Octreotide 100mcg three times daily , 2 weeks , Low-fat diet , Avoid alcohol 
+367," Fatigue, Loss of body hair, Low blood pressure ", Panhypopituitarism ," Hydrocortisone 20mg AM, 10mg PM ", Ongoing , Balanced diet , Wear medical alert bracelet 
+368," Chest pain, Shortness of breath, Fatigue ", Pericardial Effusion , Ibuprofen 600mg three times daily ,,,
+369,fever,common fever,Dolo 1tablet N,,,
